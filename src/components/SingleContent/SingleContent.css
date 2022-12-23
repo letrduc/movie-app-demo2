@@ -1,0 +1,18 @@
+.content:hover {
+  background-color: rgb(168, 157, 157);
+  color: #fff;
+}
+.card {
+  margin: 10px;
+  -webkit-box-shadow: 1px 4px 12px 3px #000000;
+  box-shadow: 1px 4px 12px 3px #000000;
+}
+.poster:hover {
+  filter: brightness(80%);
+}
+.recommend_icon {
+  color: rgb(47, 41, 204);
+}
+.favorite_icon {
+  color: rgb(190, 22, 50);
+}
